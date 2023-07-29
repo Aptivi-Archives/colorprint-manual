@@ -21,9 +21,9 @@ The color wheel writes down the following information for each color mode:
    * The color sequence in the HTML format `#FFFFFF` to facilitate usage for web development (HTML, CSS, ...)
 3. Color type
    * This specifies the color type as follows:
-     * TrueColor
-     * \_255Color
-     * \_16Color
+     * `TrueColor`
+     * `_255Color`
+     * `_16Color`
    * This is inferred according to the color type, but it's usually the current color type for the color wheel.
 4. Bright?
    * Find out if your selected color is bright or not.
